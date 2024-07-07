@@ -23,9 +23,9 @@
 - Conducted software testing and diagnosed technical issues, ensuring the reliability and functionality of insurance software solutions
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Indian Premier League (IPL) in-depth Analysis
 [URL](https://github.com/MehulBafna/Indian-Premier-League-in-depth-data-analysis-)
 - Data Analysis of the world's largest cricket league dataset comprising 12 years of data with over 200,000 samples and18 features attaining 96% accuracy
 - Precise and statistically sound figures for accurate data-driven analysis
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/W1.png)
