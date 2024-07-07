@@ -21,3 +21,11 @@
 - Migrated data from a legacy system to an insurance application system using a MySQL server with 98% of the data records successfully mapped
 - Created a database schema with 20 tables indicating features such as location, insurance type, and liability
 - Conducted software testing and diagnosed technical issues, ensuring the reliability and functionality of insurance software solutions
+
+## Projects
+### Data-Driven EEG Band Discovery with Decision Trees
+[URL](https://github.com/MehulBafna/Indian-Premier-League-in-depth-data-analysis-)
+- Data Analysis of the world's largest cricket league dataset comprising 12 years of data with over 200,000 samples and18 features attaining 96% accuracy
+- Precise and statistically sound figures for accurate data-driven analysis
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
