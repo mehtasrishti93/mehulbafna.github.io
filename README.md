@@ -31,4 +31,5 @@
 ![IPL](/assets/W1.png)
 
 ## Publications
-1. Bafna, Mehul. Mathematical Aspects and Challenges of the Algorand Blockchain. MS thesis. 2022. (https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/14083/file/MT_51923_Bafna_Mehul_Algorand_geschwaerzt.pdf)
+1. Bafna, Mehul. Mathematical Aspects and Challenges of the Algorand Blockchain. MS thesis. 2022. 
+(https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/14083/file/MT_51923_Bafna_Mehul_Algorand_geschwaerzt.pdf)
