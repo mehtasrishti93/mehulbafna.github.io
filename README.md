@@ -29,3 +29,6 @@
 - Precise and statistically sound figures for accurate data-driven analysis
 
 ![IPL](/assets/W1.png)
+
+## Publications
+1. Bafna, Mehul. Mathematical Aspects and Challenges of the Algorand Blockchain. MS thesis. 2022.
