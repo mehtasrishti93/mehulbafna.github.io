@@ -29,6 +29,7 @@
 - Precise and statistically sound figures for accurate data-driven analysis
 
 <div style="text-align:center"><img src="/assets/W1.png" width="200" height="200"></div>
+<br/>
 
 ### Principal Component Analysis (PCA)
 [URL](https://github.com/MehulBafna/Principal-Component-Analysis)
