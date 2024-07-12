@@ -25,10 +25,17 @@
 ## Projects
 ### Indian Premier League (IPL) in-depth Analysis
 [URL](https://github.com/MehulBafna/Indian-Premier-League-in-depth-data-analysis-)
-- Data Analysis of the world's largest cricket league dataset comprising 12 years of data with over 200,000 samples and18 features attaining 96% accuracy
+- Data Analysis of the world's largest cricket league dataset comprising 12 years of data with over 200,000 samples and 18 features attaining 96% accuracy
 - Precise and statistically sound figures for accurate data-driven analysis
 
 <div style="text-align:center"><img src="/assets/W1.png" width="200" height="200"></div>
+
+### Principal Component Analysis (PCA)
+[URL](https://github.com/MehulBafna/Principal-Component-Analysis)
+- Developed a robust PCA program in Python to perform dimensionality reduction on large datasets
+- Implemented the computation of the variance-covariance matrix to understand the relationship between different features in the dataset
+- Developed algorithm to compute eigenvalues and eigenvectors, enabling the identification of principal components
+- Created plots to visualize the principal components and the explained variance, aiding in better data interpretation
 
 ## Publications
 1. Bafna, Mehul. Mathematical Aspects and Challenges of the Algorand Blockchain. MS thesis. 2022. <br/>
