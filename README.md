@@ -32,8 +32,6 @@
 - Developed algorithm to compute eigenvalues and eigenvectors, enabling the identification of principal components
 - Created plots to visualize the principal components and the explained variance, aiding in better data interpretation
 
-<br/>
-
 ### Graph Polynomials Analysis Tool
 [URL](https://github.com/MehulBafna/Graph-Polynomials)
 - Developed a Python-based tool to compute and analyze various graph polynomials, such as independence and domination polynomials, enhancing the understanding of graph theoretical concepts
