@@ -16,6 +16,7 @@
 - Conducted in-depth EDA on loan data, revealing strong associations between loan type and borrower credit score (correlation coefficient = 0.73)
 - Conducted outlier detection of loan demand and interest rate data using time series analysis, resulting in a 20% improvement in anomaly detection
 - Boosted user engagement by 20% with interactive Power BI dashboards, leading to an increased understanding of key loan data trends and insights
+- Applied ARIMA and SARIMAX models to capture and predict seasonal trends in loan demand and interest rate data, improving forecasting accuracy by 15%
 
 **Software Engineer Associate @ Accenture (_May 2016 - Aug 2017_)** 
 - Migrated data from a legacy system to an insurance application system using a MySQL server with 98% of the data records successfully mapped
