@@ -28,7 +28,7 @@
 - Data Analysis of the world's largest cricket league dataset comprising 12 years of data with over 200,000 samples and18 features attaining 96% accuracy
 - Precise and statistically sound figures for accurate data-driven analysis
 
-<img src="/assets/W1.png" width="200" height="200">
+<div style="text-align:center"><img src="/assets/W1.png" width="200" height="200">
 
 ## Publications
 1. Bafna, Mehul. Mathematical Aspects and Challenges of the Algorand Blockchain. MS thesis. 2022. <br/>
