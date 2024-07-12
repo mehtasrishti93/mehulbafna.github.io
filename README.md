@@ -1,6 +1,6 @@
 # Data Scientist/ML Engineer 
 
-#### Technical Skills: Python, SQL, R, Microsoft Azure, Snowflake, MATLAB, C/C++, Docker, Kubernetes
+#### Technical Skills: Python, SQL, R, Microsoft Azure, Snowflake, MATLAB, C/C++, Docker, Kubernetes, Tableau, Power BI
 
 ## Education							       		
 - M.S., Applied Mathematics	| University of Applied Sciences Mittweida, Germany	(_July 2022_)		        		
