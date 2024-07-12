@@ -24,13 +24,6 @@
 - Conducted software testing and diagnosed technical issues, ensuring the reliability and functionality of insurance software solutions
 
 ## Projects
-### Indian Premier League (IPL) in-depth Analysis
-[URL](https://github.com/MehulBafna/Indian-Premier-League-in-depth-data-analysis-)
-- Data Analysis of the world's largest cricket league dataset comprising 12 years of data with over 200,000 samples and 18 features attaining 96% accuracy
-- Precise and statistically sound figures for accurate data-driven analysis
-
-<div style="text-align:center"><img src="/assets/W1.png" width="200" height="200"></div>
-<br/>
 
 ### Principal Component Analysis (PCA)
 [URL](https://github.com/MehulBafna/Principal-Component-Analysis)
@@ -39,6 +32,22 @@
 - Developed algorithm to compute eigenvalues and eigenvectors, enabling the identification of principal components
 - Created plots to visualize the principal components and the explained variance, aiding in better data interpretation
 
+<br/>
+
+### Graph Polynomials Analysis Tool
+[URL](https://github.com/MehulBafna/Graph-Polynomials)
+- Developed a Python-based tool to compute and analyze various graph polynomials, such as independence and domination polynomials, enhancing the understanding of graph theoretical concepts
+- Utilized NetworkX for graph representation and Matplotlib for visualizing graph structures and their polynomial properties
+- Enabled detailed analysis of graph properties and their polynomial representations
+
+### Indian Premier League (IPL) in-depth Analysis
+[URL](https://github.com/MehulBafna/Indian-Premier-League-in-depth-data-analysis-)
+- Data Analysis of the world's largest cricket league dataset comprising 12 years of data with over 200,000 samples and 18 features attaining 96% accuracy
+- Precise and statistically sound figures for accurate data-driven analysis
+
+<div style="text-align:center"><img src="/assets/W1.png" width="200" height="200"></div>
+
+<br/>
 ## Publications
 1. Bafna, Mehul. Mathematical Aspects and Challenges of the Algorand Blockchain. MS thesis. 2022. <br/>
 [URL](https://monami.hs-mittweida.de/frontdoor/deliver/index/docId/14083/file/MT_51923_Bafna_Mehul_Algorand_geschwaerzt.pdf)
