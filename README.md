@@ -9,8 +9,11 @@
 ## Work Experience
 **Data Scientist @ University Clinic Jena (_Oct 2022 - Present_)**
 - Enhanced medical research by developing a TensorFlow-powered deep learning model that achieved 90% accuracy in identifying abnormalities in tissue samples
-- Implemented an Al-powered NLP pipeline to identify key findings and summarize medical research papers concerning behavioral changes in isolated rats/mice, streamlining the information access and facilitating faster knowledge synthesis
+- Implemented an Al-powered NLP pipeline incorporating BART (Bidirectional and Attention-based Transformer) large language model (LLM) to identify key findings and summarize medical research papers concerning behavioral changes in isolated rats/mice, streamlining the information access and facilitating faster knowledge synthesis
+- Utilized tools like pandas, tabula-py, PyMuPDF, and numpy to handle both scanned and non-scanned PDFs in batches for extracting critical data such as experimental protocols, results, and researcher notes
 - Developed and deployed a recommendation engine using Random Forest and Decision Tree models in a university clinic setting to suggest treatment options based on medical history with 95% accuracy and implemented CI/CD pipeline for seamless updates and maintenance
+- Leveraged advanced evaluation methods (classification reports, confusion matrices, AUC scores, and SHAP plots) to thoroughly assess the accuracy and explainability of predictive models used in healthcare research
+- Created custom Excel macros using Visual Basic to automate work-time record keeping for a 15-person team. This automation streamlines data entry, formatting, and reporting, significantly reducing manual effort and ensuring accurate time tracking.
 
 **Volunteering Data Analyst @ Mi4 People gGmbH (_Mar 2023 - Mar 2024_)**
 - Conducted in-depth EDA on loan data, revealing strong associations between loan type and borrower credit score (correlation coefficient = 0.73)
