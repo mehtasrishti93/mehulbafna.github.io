@@ -29,12 +29,14 @@
 ## Projects
 
 ### Deep Learning for Skin Cancer Detection: A CNN Approach with Transfer Learning and Data Augmentation
-[URL](https://github.com/MehulBafna/Principal-Component-Analysis)
+[URL](https://github.com/MehulBafna/Computer-Vision/tree/main/Deep%20Learning%20-%20Skin%20Cancer%20Detection)
 - Built a Convolutional Neural Network (CNN) utilizing transfer learning with VGG19 for image classification with 7 labels. This model leveraged a large pre-trained image feature extractor, followed by a custom dense layer with 128 units for the specific data handling achieving 94% accuracy
 - Implemented image augmentation techniques to counteract class imbalance within the dataset of 11,000 images. This approach helped ensure the model generalizes well to unseen data, contributing to its high accuracy
 - Created a custom image data generator to streamline the training process. This optimized data loading and preprocessing, leading to faster training times and improved model performance
 
+<div style="text-align:center"><img src="/assets/W2.png" width="200" height="200"></div>
 
+<br/>
 ### Principal Component Analysis (PCA)
 [URL](https://github.com/MehulBafna/Principal-Component-Analysis)
 - Developed a robust PCA program in Python to perform dimensionality reduction on large datasets
