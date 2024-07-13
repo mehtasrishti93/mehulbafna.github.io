@@ -34,7 +34,7 @@
 - Implemented image augmentation techniques to counteract class imbalance within the dataset of 11,000 images. This approach helped ensure the model generalizes well to unseen data, contributing to its high accuracy
 - Created a custom image data generator to streamline the training process. This optimized data loading and preprocessing, leading to faster training times and improved model performance
 
-<div style="text-align:center"><img src="/assets/W2.png" width="200" height="200"></div>
+<div style="text-align:center"><img src="/assets/W2.png" width="400" height="200"></div>
 
 <br/>
 ### Principal Component Analysis (PCA)
