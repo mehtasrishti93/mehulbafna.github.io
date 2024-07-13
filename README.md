@@ -37,6 +37,7 @@
 <div style="text-align:center"><img src="/assets/W2.png" width="400" height="200"></div>
 
 <br/>
+
 ### Principal Component Analysis (PCA)
 [URL](https://github.com/MehulBafna/Principal-Component-Analysis)
 - Developed a robust PCA program in Python to perform dimensionality reduction on large datasets
