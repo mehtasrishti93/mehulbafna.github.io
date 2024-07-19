@@ -11,7 +11,7 @@
 - Enhanced medical research by developing a TensorFlow-powered deep learning model that achieved 90% accuracy in identifying abnormalities in tissue samples
 - Implemented an Al-powered NLP pipeline incorporating BART (Bidirectional and Attention-based Transformer) large language model (LLM) to identify key findings and summarize medical research papers concerning behavioral changes in isolated rats/mice, streamlining the information access and facilitating faster knowledge synthesis
 - Utilized tools like pandas, tabula-py, PyMuPDF, and numpy to handle both scanned and non-scanned PDFs in batches for extracting critical data such as experimental protocols, results, and researcher notes
-- Developed and deployed a recommendation engine using Random Forest and Decision Tree models in a university clinic setting to suggest treatment options based on medical history with 95% accuracy and implemented CI/CD pipeline for seamless updates and maintenance
+- Developed and operationalized a machine learning model (Random Forest) predicting 30-day patient readmission risk (AUC-ROC: 0.88) using patient data. This facilitated targeted interventions to reduce readmissions and improve outcomes. (Implemented CI/CD pipeline & MLOps practices)
 - Leveraged advanced evaluation methods (classification reports, confusion matrices, AUC scores, and SHAP plots) to thoroughly assess the accuracy and explainability of predictive models used in healthcare research
 - Created custom Excel macros using Visual Basic to automate work-time record keeping for a 15-person team. This automation streamlines data entry, formatting, and reporting, significantly reducing manual effort and ensuring accurate time tracking.
 
