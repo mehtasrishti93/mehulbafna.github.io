@@ -45,7 +45,7 @@
 - Album covers were fetched using the Spotify API and integrated into the recommendations. A user-friendly interface was developed using Streamlit to display recommended songs with their corresponding album art.
 - The system employs a content-based filtering approach, recommending songs similar to the user's previously listened tracks or preferred genres, without requiring explicit user ratings or behavior data.
 
-<div style="text-align:center"><img src="/assets/W2.png" width="400" height="200"></div>
+<div style="text-align:center"><img src="/assets/M11.png" width="400" height="200"></div>
 
 <br/>
 
