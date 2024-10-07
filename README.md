@@ -49,6 +49,12 @@
 
 <br/>
 
+### Streamlit Text-to-Image Generator
+[URL]((https://github.com/MehulBafna/Computer-Vision/tree/main/Deep%20Learning%20-%20Text-to-Image%20Generator))
+- Developed a Streamlit-based web application built upon the Stable Diffusion algorithm to generate high-quality images from text prompts
+- Leverages advanced mathematical techniques and deep learning models
+- The app efficiently combines state-of-the-art latent diffusion models, enabling users to render images from descriptive inputs. Integrated text conditioning and optimized the model for fast, accurate image generation.
+
 ### Principal Component Analysis (PCA)
 [URL](https://github.com/MehulBafna/Principal-Component-Analysis)
 - Developed a robust PCA program in Python to perform dimensionality reduction on large datasets
