@@ -1,10 +1,10 @@
-# Data Scientist/ML Engineer 
+# Senior Associate/Vice President - Investment Banking
 
-#### Technical Skills: Python, SQL, R, Microsoft Azure, Snowflake, MATLAB, C/C++, Docker, Kubernetes, Tableau, Power BI
+#### Technical Skills: Microsoft Excel, Microsoft Powerpoint
 
 ## Education							       		
-- M.S., Applied Mathematics	| University of Applied Sciences Mittweida, Germany	(_July 2022_)		        		
-- B.Tech., Computer Science and Engineering | KIIT University (_Nov 2016_)
+- MBA, Finance	| Lala Lajpat Rai Institute of Management	(_May 2017_)		        		
+- B.Com | Jai Hind College (_Mar 2014_)
 
 ## Work Experience
 **Data Scientist @ University Clinic Jena (_Oct 2022 - Present_)**
